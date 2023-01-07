@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: 4fbfb447ce897a643b3af264eaeb19f8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 022853fb4dc8bad4eadb0fb924e4c6db, type: 3}
+  - {fileID: 12800000, guid: 7b59dc1c8be4fdc46bb417908b311cde, type: 3}
+  - {fileID: 12800000, guid: 0978664c0ed322349a6ede016c9e896f, type: 3}
+  - {fileID: 12800000, guid: 873cb19fd9b36df4eb9505ea32d4e712, type: 3}
+  - {fileID: 12800000, guid: b8d5b3dac69d6734589591516702f414, type: 3}
+  - {fileID: 12800000, guid: e5d1b064fa93d0142bd3606a6fd5a554, type: 3}
+  - {fileID: 12800000, guid: 0926ec38e4249584f829923447ff4882, type: 3}
+  - {fileID: 12800000, guid: ddb0f34720414a946905dfb0a2ce2b4d, type: 3}
+  - {fileID: 12800000, guid: 5cfe7775df546cd4c8bf43e69737ba9f, type: 3}
+  - {fileID: 12800000, guid: b9a6feaf08c20c4448097e5069cf3eec, type: 3}
+  - {fileID: 12800000, guid: 04f7dae9ab896d34888433ac59ff47f9, type: 3}
+  - {fileID: 12800000, guid: 2c5f2e59489c76b4a82b61caf38202d5, type: 3}
+  - {fileID: 12800000, guid: 5ec9ed948b25bc8488c4a485cf114c34, type: 3}
+  - {fileID: 12800000, guid: 8f35ca935635f5546b3b9b4b1dcdf8b8, type: 3}
+  - {fileID: 12800000, guid: 4b35a9486fa22e64299c6fb3c114803d, type: 3}
+  - {fileID: 12800000, guid: 6149fa55f3025c742899d739a832ce1b, type: 3}
+  - {fileID: 12800000, guid: e27d35e6a864a5c49a549f916c3804d6, type: 3}
+  - {fileID: 12800000, guid: 65bade3e7b6c66c4aacd752ea0bb9240, type: 3}
+  - {fileID: 12800000, guid: 3bbf9b219513b75428acb0362756e24b, type: 3}
+  - {fileID: 12800000, guid: 4beb055f07aaff244873dec698d0363e, type: 3}
+  - {fileID: 12800000, guid: a9f527a92eefceb4e88b11b891e1c36d, type: 3}
+  - {fileID: 12800000, guid: 66dc4e8bc52cb9e43bed7d17e469cfac, type: 3}
+  - {fileID: 12800000, guid: 3d28b96543e18c043a386b5acf538096, type: 3}
+  - {fileID: 12800000, guid: 861c73da47d4c0d4a9a89a1dfc24dcab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
